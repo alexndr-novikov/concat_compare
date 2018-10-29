@@ -1,4 +1,4 @@
-#php '.' vs '.=' benchmark
+# php '.' vs '.=' benchmark
 
 There was a question, what is faster
 ```
